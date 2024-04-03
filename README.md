@@ -11,7 +11,7 @@ Whether you're a photographer, designer, or just someone looking to add a timele
 
 ## How to Use
 
-1. **Navigate to the Web App**: Open the [Grey Scaler Web Application](#) in your web browser. (Please replace `#` with the actual URL of your web app)
+1. **Navigate to the Web App**: Open the [Grey Scaler Web Application](https://dashpresents-greyscaler.streamlit.app) in your web browser.
 2. **Upload or Capture an Image**: Choose to either upload an image from your device or capture one using your device's camera.
 3. **View Grayscale Image**: Once an image is uploaded or captured, the app automatically converts it to grayscale and displays it.
 
